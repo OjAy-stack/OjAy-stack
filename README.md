@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OjAy-stack
 - 👀 I’m interested in Data and Storytelling
-- 🌱 I’m currently learning Data Analytics
+- 🌱 I enjoy coding in Python.
 - 💞️ I’m looking to collaborate on data-driven projects and community learning initiatives
 - 📫 How to reach me aojueromi@outlook.com
 - 😄 Pronouns: She/Her
