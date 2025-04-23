@@ -14,9 +14,8 @@ Welcome to my GitHub! I am a data analyst with a strong passion for using data t
 
 ## 🛠️ Tools & Tech I Work With  
 - **Visualization**: Power BI, Tableau  
-- **Data Analysis**: Python (Pandas, NumPy), SQL, Excel  
-- **Version Control**: Git, GitHub  
-- **Other**: R, BigQuery, Google Sheets, Google Data Studio
+- **Data Analysis**: Python, SQL, Excel, Google Sheets, R, BigQuery
+- **Version Control**: Git, GitHub
 
 ## 📁 Featured Projects  
 Here are some things I've worked on – more to come!
