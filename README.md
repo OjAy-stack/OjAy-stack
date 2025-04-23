@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @OjAy-stack
+- 👋 Hi, I’m Ayomikun /Ah-Your-Me-Koon/
 - 👀 I’m interested in Data and Storytelling
-- 🌱 I enjoy coding in Python.
+- 🌱 I enjoy coding in Python
 - 💞️ I’m looking to collaborate on data-driven projects and community learning initiatives
 - 📫 How to reach me aojueromi@outlook.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love learning new languages and I am fluent in six
+- ⚡ Fun fact: I love learning new languages and I'm a polyglot.
 
 <!---
 OjAy-stack/OjAy-stack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
