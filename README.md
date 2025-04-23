@@ -20,9 +20,9 @@ Welcome to my GitHub! I am a data analyst with a strong passion for using data t
 ## 📁 Featured Projects  
 Here are some things I've worked on – more to come!
 
-- 📊 **HR Dashboard** – A tool for HR teams to track employee performance and make data-driven decisions  
-- 💻 **Python Projects** – Automating tasks and building data analysis pipelines  
-- 📚 **Data Analytics Tutorials** – Writing guides to help others learn data analysis and visualization  
+- 📊 **[HR Power BI Dashboard](https://github.com/OjAy-stack/HR-dashboard)** – HR management tool to make data-driven decisions
+- 📊 **[Excel Dashboard](https://github.com/OjAy-stack/coffee-shop-sales-dashboard)** – Coffee Sales Dashboard with VBA script
+- 💻 **[Python Webscraping Project](https://github.com/OjAy-stack/Jumia-Python-Webscraping)** – Jumia Appliances Webscraping   
 
 ## Currently Learning  
 - Machine Learning in Data Analysis  
