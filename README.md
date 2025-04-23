@@ -1,5 +1,4 @@
 # Hello there, I'm Ayomikun /Ah-Your-Me-Koon/👋  
-Data analyst | Passionate about turning raw data into actionable insights | Lifelong learner
 
 Welcome to my GitHub! I am a data analyst with a strong passion for using data to solve real-world problems and help organizations make informed decisions. I love asking "why," uncovering insights through data, and turning them into visual stories that drive action.
 
