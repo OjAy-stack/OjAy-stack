@@ -25,16 +25,15 @@ Here are some things I've worked on – more to come!
 - 📚 **Data Analytics Tutorials** – Writing guides to help others learn data analysis and visualization  
 
 ## Currently Learning  
-- Advanced machine learning techniques  
-- Improving my data storytelling and visualization skills  
+- Machine Learning in Data Analysis  
+- More about SQL queries for complex datasets
 - Writing better technical content and tutorials  
 
 ## 🤝 Let's Connect  
-I’m always open to collaborations, internships, and opportunities in data analysis, particularly in fields where data can make a positive impact.
+I’m always open to collaborations and opportunities in data analysis, particularly in fields where data can make a positive impact.
 
-🌐 [LinkedIn](#)  
-📝 [Blog](#)  
-📧 ayomikun@example.com  
+🌐 [LinkedIn](https://www.linkedin.com/in/aojueromi/)  
+📧 aojueromi@outlook.com  
 
 Thank you for visiting! I am constantly learning, building, and growing in the world of data.
 
