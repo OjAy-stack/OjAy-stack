@@ -6,7 +6,7 @@ I am a data analyst with a strong passion for using data to solve real-world pro
 - 🎓 Bachelor's Degree in Chemistry Education
 - 📊 Certified Data Analyst (Google Data Analytics, Bootcamps)
 - 👀 I genuinely enjoy Data Storytelling
-- 🌱 I also enjoy coding in Python
+- 💻 I also enjoy coding in Python
 - 💞️ I am looking to collaborate on data-driven projects and community learning initiatives
 - 🔍 I am currently exploring machine learning and AI in data analysis
 - 📫 How to reach me aojueromi@outlook.com
