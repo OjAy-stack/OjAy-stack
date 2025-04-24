@@ -1,6 +1,6 @@
-# Hello there, I'm Ayomikun /Ah-Your-Me-Koon/👋  
+# Hello there, I'm Ayomikun /Ah-Your-Me-Koon/. Welcome to my GitHub!
 
-Welcome to my GitHub! I am a data analyst with a strong passion for using data to solve real-world problems and help organizations make informed decisions. I love asking "why," uncovering insights through data, and turning them into visual stories that drive action.
+I am a data analyst with a strong passion for using data to solve real-world problems and help organizations make informed decisions. I love asking "why," uncovering insights through data, and turning them into visual stories that drive action.
 
 ## A Bit About Me
 - 🎓 Bachelor's Degree in Chemistry Education
