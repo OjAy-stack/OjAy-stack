@@ -22,7 +22,8 @@ Here are some things I've worked on – more to come!
 
 - 📊 **[HR Power BI Dashboard](https://github.com/OjAy-stack/HR-dashboard)** – HR management tool to make data-driven decisions
 - 📊 **[Excel Coffee Sales Dashboard](https://github.com/OjAy-stack/coffee-shop-sales-dashboard)** – Coffee Sales Dashboard with VBA script
-- 💻 **[Python Webscraping Project](https://github.com/OjAy-stack/Jumia-Python-Webscraping)** – Jumia Appliances Webscraping   
+- 💻 **[Python Webscraping Project](https://github.com/OjAy-stack/Jumia-Python-Webscraping)** – Jumia Appliances Webscraping
+- 💻 **[ETL Flatten Nested JSON Column](https://github.com/OjAy-stack/Flatten-Nested-JSON-Column/tree)** – ETL project to flatten nested JSON data into CSV format using Python
 
 ## Currently Learning  
 - Machine Learning in Data Analysis  
