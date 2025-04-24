@@ -10,7 +10,7 @@ Welcome to my GitHub! I am a data analyst with a strong passion for using data t
 - 💞️ I am looking to collaborate on data-driven projects and community learning initiatives
 - 🔍 I am currently exploring machine learning and AI in data analysis
 - 📫 How to reach me aojueromi@outlook.com
-- ⚡ Fun fact: I love learning new languages and I'm a polyglot.
+- ⚡ Fun fact: I love learning new languages and playing table tennis.
 
 ## 🛠️ Tools & Tech I Work With  
 - **Visualization**: Power BI, Tableau  
