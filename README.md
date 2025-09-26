@@ -13,14 +13,17 @@ I am a data analyst with a strong passion for using data to solve real-world pro
 - ⚡ Fun fact: I love learning new languages and playing table tennis.
 
 ## 🛠️ Tools & Tech I Work With  
-- **Visualization**: Power BI, Tableau  
-- **Data Analysis**: Python, SQL, Excel, Google Sheets, R, BigQuery
+- **Visualization & BI**: Power BI, Tableau, HexTech  
+- **Data Analysis & Programming**: Python (Pandas, NumPy, Matplotlib, Plotly, Seaborn, BeautifulSoup), R
+- **Database Management**: MySQL, Microsoft SQL Server, BigQuery (with Python integration) 
+- **Spreadsheets**: Excel, Google Sheets (Advanced Formulas, AppScript Automation and Data Migration with Python gspread)
 - **Version Control**: Git, GitHub
 
 ## 📁 Featured Projects  
 Here are some things I've worked on – more to come!
 
 - 📊 **[HR Power BI Dashboard](https://github.com/OjAy-stack/HR-dashboard)** – HR management tool to make data-driven decisions
+- 📊 **[Netflix Tableau Dashboard](https://github.com/OjAy-stack/netflix-dashboard)** – Interactive Tableau dashboard analyzing Netflix movies and TV shows
 - 📊 **[Excel Coffee Sales Dashboard](https://github.com/OjAy-stack/coffee-shop-sales-dashboard)** – Coffee Sales Dashboard with VBA script
 - 💻 **[Python Webscraping Project](https://github.com/OjAy-stack/Jumia-Python-Webscraping)** – Jumia Appliances Webscraping
 - 💻 **[ETL Flatten Nested JSON Column](https://github.com/OjAy-stack/Flatten-Nested-JSON-Column)** – ETL project to flatten nested JSON data into CSV format using Python
